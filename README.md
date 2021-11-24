@@ -1,1 +1,1 @@
-I built a stopwatch using HTML,CSS and Javascript.
+I built a beautiful stopwatch using HTML,CSS and Javascript.
